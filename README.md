@@ -4,7 +4,7 @@ This repository contains the code of group #17 for Homework 5 of Algorithmic Met
 ## Contributors:
 - Gianluca Frezza
 - Chiara Sammarco
-- Tuba
+- Tuba Siddiqui
 
 ## Content:??
 main.pynb : The notebook file of the homework 5.
